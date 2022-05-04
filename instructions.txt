@@ -1,0 +1,18 @@
+Welcome to the Extra Whitespace Eliminator 2!
+
+This program is designed to remove extra whitespace characters
+from a .txt file and output the converted file in the same
+folder.
+
+To use, select the file you want to convert, then press
+the "Remove whitespace" button.
+
+That is about it. Nothing fancy. If things break or you
+run into bugs, my email is carey.andrew1836@gmail.com.
+
+If you're interested in the source code, you can find it on
+here: https://github.com/ACarey1836/WhitespaceRemover
+
+Good luck and have fun!
+
+-ACarey
